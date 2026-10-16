@@ -1,0 +1,177 @@
+INSTRUCTIONS - c3admin-excel (GitBook: C3Admin > User Manual > C3A Measurement (Excel))
+========================================================================
+Drag the matching numbered file from this _ordered folder onto the page/spot below.
+Shared Project/Mail/Typedocument and Revit BIM-import screenshots are NOT here -
+they belong to the C3A Revit Add-in pages (cross-linked).
+
+
+### PAGE: General > Installation & compatibility
+  001  -> near the install-folders / installation-guide text (1)
+  002  -> (2)
+
+### PAGE: General > Excel basics
+  003  -> at the zero-values explanation
+
+### PAGE: General > Row & column referencing (R1C1)
+  004  -> down the page, in order (1)
+  005  -> (2)
+  006  -> (3)
+  007  -> (4)
+  008  -> (5)
+
+### PAGE: General > Article list
+  009  -> at the top (the article-list columns)
+
+### PAGE: General > The C3A ribbon
+  010  -> at the top (the whole C3A ribbon)
+  011  -> Measurement group - the Detail ribbon group
+  012  -> the Summary ribbon group
+  013  -> the Article-list ribbon group
+
+### PAGE: Templates, saving & printing > Templates
+  014  -> the detailed-BoQ template: the first cell
+  015  -> the detailed-BoQ template: the styles
+
+### PAGE: Settings & configuration > Settings
+  016  -> Section 'Specifications & Bill of quantities tab'
+  017  -> the 'Measurement types editor'
+  018  -> the 'Units editor'
+  019  -> the warning hint about undeclared units
+  020  -> Section 'Project info tab'
+
+### PAGE: Settings & configuration > Options
+  021  -> at the Options dialog
+
+### PAGE: Settings & configuration > System files
+  022  -> at the System-files dialog
+
+### PAGE: Settings & configuration > Customising the templates
+  023  -> detail template: the style gallery
+  024  -> detail template: measurement-block styles
+  025  -> summary template: the Format sheet
+
+### PAGE: Settings & configuration > Price-request & progress templates
+  026  -> the price-request (RFP) template
+
+### PAGE: Article lists > Article list structure
+  027  -> at the top (list structure)
+
+### PAGE: Article lists > Your own article lists
+  028  -> Section 'Create a new list' (manually filled example)
+  029  -> Section 'Importing articles' (1)
+  030  -> Importing articles (2)
+  031  -> Importing articles (3)
+  032  -> Importing articles (4)
+  033  -> Importing articles (5)
+  034  -> Importing articles (6)
+  035  -> 'From a specification' (7)
+
+### PAGE: Article lists > BoQ-specific article lists
+  036  -> at the sync dialog
+
+### PAGE: Article lists > Importing unit prices
+  037  -> 'From another article list' (1)
+  038  -> (2)
+  039  -> 'From another BoQ' (3)
+  040  -> choose worksheet & column
+  041  -> Section 'Import prices dialog' (colour code)
+
+### PAGE: Detailed bill of quantities > Creating a new detailed BoQ
+  042  -> option 'Empty'
+  043  -> option 'From a specification'
+  044  -> the resulting BoQ with empty articles
+
+### PAGE: Detailed bill of quantities > Structure of an article
+  045  -> Section 'Title line'
+  046  -> Section 'Top line'
+  047  -> Section 'Measurement lines'
+  048  -> descriptive BoQ - comment column ON
+  049  -> descriptive BoQ - comment column OFF
+
+### PAGE: Detailed bill of quantities > Special formulas & inserting lines
+  050  -> Section 'Special formulas' (1)
+  051  -> (2)
+  052  -> (3)
+  053  -> (4)
+
+### PAGE: Detailed bill of quantities > Checks & editing after the summary
+  054  -> visual check of article totals
+  055  -> after inserting an article
+  056  -> the 'article inserted' warning
+
+### PAGE: Detailed bill of quantities > Synchronising
+  057  -> 'With the BoQ-specific article list' (1)
+  058  -> (2)
+  059  -> (3)
+  060  -> (4)
+  061  -> 'Remove from BoQ'
+  062  -> 'Insert in BoQ'
+  063  -> (result)
+  064  -> 'With a specification' (1)
+  065  -> 'With a specification' - file not found
+  066  -> - pick the specification
+  067  -> (2)
+  068  -> (3)
+  069  -> (4)
+  070  -> 'Remove from BoQ'
+  071  -> (5)
+  072  -> (6)
+  073  -> 'Insert in BoQ'
+  074  -> (result)
+
+### PAGE: Summary bill of quantities > Making a summary
+  075  -> at the top (the summary sheet)
+  076  -> the 'Make summary' dialog
+  077  -> Section 'How it works' (article name field)
+  078  -> the warning hint about duplicate article numbers
+  079  -> the summary structure
+  080  -> the total line
+  081  -> the TotalLine named range
+
+### PAGE: Summary bill of quantities > Unit prices & estimate
+  082  -> the estimate-import dialog (1)
+  083  -> (2)
+  084  -> (3)
+
+### PAGE: Summary bill of quantities > Checks & detaching
+  085  -> visual check of article totals
+
+### PAGE: Price comparison & tenders > Price comparison
+  086  -> Section 'Setup' (parameters)
+  087  -> Section 'Computing the comparison'
+  088  -> the 'comparison ready' dialog
+  089  -> worked example (before)
+  090  -> worked example (result)
+  091  -> the formatting of deviating prices
+
+### PAGE: Price comparison & tenders > Second price, re-rounds & multiple summaries
+  092  -> multiple summaries
+  093  -> revision warning
+
+### PAGE: Price comparison & tenders > Tender request
+  094  -> Step 1 (the dialog)
+  095  -> the created tender request
+  096  -> Step 3 - Unprotect Sheet
+  097  -> Step 3 - Protect Sheet
+  098  -> Step 3 - password dialog
+  099  -> the StyleFill lock style
+  100  -> the deviating-quantity conditional formatting
+
+### PAGE: Progress statements > Functions & more/less works
+  101  -> more/less works (1)
+  102  -> (2)
+  103  -> (3)
+  104  -> (4)
+
+### PAGE: Error handling, tips & conversion > Error handling
+  105  -> 'Total line with an unknown unit'
+  106  -> 'Total cell cleared'
+  107  -> 'Duplicate article numbers' (1)
+  108  -> 'Duplicate article numbers' (2)
+  109  -> 'Wrong article order' (1)
+  110  -> 'Wrong article order' (2)
+  111  -> 'Empty article numbers'
+  112  -> 'Circular references in the article list'
+  113  -> 'Missing formulas in the summary' (1)
+  114  -> (2)
+  115  -> 'Invalid price values in the summary'

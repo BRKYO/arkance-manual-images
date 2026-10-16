@@ -1,0 +1,121 @@
+INSTRUCTIONS - c3admin-revit (GitBook: C3Admin > User Manual > C3A Revit Add-in)
+======================================================================
+Drag the matching numbered file from this _ordered folder onto the page/spot below.
+Skip nothing here - Note/Warning/Tip icons were already left out.
+
+
+### PAGE: Project database (Projects.xlsx)
+  01  -> Section 'Workbook rules', under the line '...always insert a row (right-click a row header -> Insert)...'
+  02  -> under the bullet 'The first row of every table contains field names...'
+  03  -> under the bullet 'The second row ... holds references to the other worksheets...'
+  04  -> under the blue info hint (dates / performance)
+  05  -> Section 'Worksheets', Projects bullet, at 'Most other columns are drop-down lists...'
+  06  -> under the 'Clients, Contractors, Architects...' bullet (ONE representative contact-sheet; the other 13 are in Images/Project/ if you want them)
+
+### PAGE: Selecting a project
+  07  -> under the first paragraph 'The button opens a dialog where you select a project...'
+  08  -> under the blue info hint (reload / refresh the list)
+
+### PAGE: Customising the database
+  09  -> under the opening paragraph 'From the third column onward...'
+  10  -> same area (reference example 2)
+  11  -> same area (reference example 3)
+  12  -> Section 'Adding a worksheet' -> 'Copy an existing sheet', step 1
+  13  -> 'Copy an existing sheet', step 2
+  14  -> 'Copy an existing sheet', step 3
+  15  -> 'Copy an existing sheet', renaming the named range (Name Manager) 1
+  16  -> renaming 2
+  17  -> renaming 3
+  18  -> renaming 4
+  19  -> 'Add a new sheet', step 1
+  20  -> 'Add a new sheet', step 2
+  21  -> 'Add a new sheet', step 3
+  22  -> 'Add a new sheet', step 4
+  23  -> 'Add a new sheet', step 5
+  24  -> 'Add a new sheet', step 6
+  25  -> 'Add a new sheet', step 7
+  26  -> 'Add a new sheet', step 8
+  27  -> 'Add a new sheet', step 9
+
+### PAGE: Inserting data fields
+  28  -> Section 'Inserting and removing fields', at '...open the Project info window.'
+  29  -> under the 'In Word, a field looks like...' bullet
+  30  -> under the 'In Excel, the value is inserted...' bullet
+  31  -> under the blue info hint (removing a field in Excel)
+  32  -> Section 'Project info window buttons' (header row)
+
+### PAGE: Error handling
+  33  -> under 'When a key value ... an error message appears...'
+  34  -> under the 'Example - the project number cannot be identified' list
+
+### PAGE: Template documents
+  35  -> Section 'Use', at '...click the template button to open the picker.'
+  36  -> under the black/red/blue text explanation
+  37  -> Section 'Project sheet (Projectfiche)'
+
+### PAGE: Mail function
+  38  -> under 'The Mail button ... opens the Mail dialog.'
+  39  -> under the 'Attach the active document' bullet
+  40  -> under the 'Project' bullet
+  41  -> under the 'Filter' bullet
+  42  -> under the 'To / Cc / Bcc' bullet
+  43  -> under the final paragraph 'choose Start Mail...'
+
+### PAGE: The C3A ribbon panel
+  44  -> under the opening line '...a new C3A tab in the ribbon, with three groups:'
+  45  -> Section 'Settings', at 'The Settings button opens a dialog:'
+
+### PAGE: Project parameters
+  46  -> Section 'Project parameters - general', at 'Manage -> Project Information ... Project Parameters'
+  47  -> under 'New (under Parameters) creates the parameter...'
+  48  -> under 'Select gives access to the Shared Parameters file...'
+  49  -> same (Edit -> Create a new shared-parameter file)
+  50  -> same (defining the new parameter)
+  51  -> under 'give them a value in the Project Information dialog.'
+  52  -> Section 'Entering project parameters via the add-in' (header)
+
+### PAGE: Title blocks & labels
+  53  -> Section 'Adding labels', step 1 '...choose Label in the Create tab.'
+  54  -> step 2 (Edit Label dialog opens)
+  55  -> step 3 (Add Parameter)
+  56  -> step 4 (Parameter Properties)
+  57  -> step 4/5 (Shared Parameters dialog)
+  58  -> step 6 (move parameter with the green arrow)
+  59  -> step 7 (label added)
+
+### PAGE: BIM: Revit to Excel > Schedule types
+  60  -> Section 'Materials list'
+  61  -> Section 'Article lists'
+  62  -> under the keynote-filter bullet
+  63  -> Section 'Control schedules'
+  64  -> Section 'Control schedules'
+  65  -> Section 'Control schedules'
+  66  -> Section 'Control schedules'
+
+### PAGE: BIM: Revit to Excel > Exporting schedules
+  67  -> under 'The export button opens an export dialog.'
+
+### PAGE: BIM: Revit to Excel > Importing measurements
+  68  -> under '...opens the Import article measurements dialog:'
+
+### PAGE: BIM: Revit to Excel > Import dialog
+  69  -> under the opening paragraph
+  70  -> Section 'Columns' (1)
+  71  -> Section 'Columns' (2)
+  72  -> Section 'Columns' (3)
+  73  -> Section 'Columns' (4)
+  74  -> Section 'Error flags' (5)
+  75  -> Section 'Error flags' (6)
+  76  -> Section 'Error flags' (7)
+  77  -> Section 'Error flags' (8)
+  78  -> Section 'Error flags' (9)
+
+### PAGE: BIM: Revit to Excel > Import file format
+  79  -> under 'The column order is:'
+  80  -> under the pipe example / code table
+
+### PAGE: BIM: Revit to Excel > Article list
+  81  -> under the 'Columns:' list
+
+### PAGE: BIM: Revit to Excel > Imported measurement line formatting
+  82  -> under the opening paragraph
