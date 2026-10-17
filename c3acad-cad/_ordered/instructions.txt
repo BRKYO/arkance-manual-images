@@ -1,0 +1,136 @@
+INSTRUCTIONS - c3acad-cad
+============================================================
+Numbered images in manual order, grouped by help topic.
+
+## AutoCAD werkomgeving algemeen
+  001  <- Images/snelkoppeling.jpg
+
+## Starten van AutoCAD of starten van een DWG
+  002  <- Images/options.jpg
+
+## ACAD.PGP: het ProGram Parameter bestand
+  003  <- Images/acadpgp.jpg
+
+## Menustructuur
+  004  <- Images/cui.jpg
+
+## Toolbars
+  005  <- Images/toolbars.jpg
+
+## Pulldown menus
+  006  <- Images/pulldown.jpg
+
+## Ribbons
+  007  <- Images/ribbons.jpg
+
+## Snelmenus
+  008  <- Images/snelmenu1.jpg
+  009  <- Images/snelmenu2.jpg
+
+## Dubbelklik acties
+  010  <- Images/dubbelklik.jpg
+
+## Muisknoppen
+  011  <- Images/muisknoppen.jpg
+
+## LISP bestanden
+  012  <- Images/lispbestanden.jpg
+
+## Bijzondere tekenentiteiten: arceerpatronen
+  013  <- Images/arceerpatroon.jpg
+
+## Metrisch of duims?
+  014  <- Images/reloadlinetypes1.jpg
+  015  <- Images/reloadlinetypes2.jpg
+
+## Bibliotheekstruktuur
+  016  <- Images/bibtoolstructuur.jpg
+
+## Iconensturing - opbouw symbolen
+  017  <- Images/bibtool.jpg
+
+## C3AINSert
+  018  <- Images/bibopties.jpg
+
+## C3AVARiabelen
+  019  <- Images/saveset.jpg
+
+## User-instelling van de C3AVARiabelen
+  020  <- Images/c3aset.jpg
+
+## Variabele laagnamen
+  021  <- Images/c3acadsettings.jpg
+  022  <- Images/saveset2.jpg
+
+## Het C3A-menu
+  023  <- Images/c3amenu.jpg
+
+## Spmuur
+  024  <- Images/spmsettings.jpg
+
+## Spm
+  025  <- Images/spm.jpg
+
+## Bumuur en Bimuur
+  026  <- Images/bimuurbuimuur.jpg
+
+## Staalprofielen
+  027  <- Images/STPROF.jpg
+
+## Spmopen: spouwmuur openingen en ramen.
+  028  <- Images/spmopen.jpg
+  029  <- Images/spmopensettings.jpg
+
+## Raam
+  030  <- Images/raam.jpg
+
+## Mopen - Muuropeningen en deuren.
+  031  <- Images/deur.jpg
+  032  <- Images/mopensettings.jpg
+
+## Nivo
+  033  <- Images/lvl.jpg
+
+## SpotElevation
+  034  <- Images/spotelevation.jpg
+
+## Refnummers
+  035  <- Images/refnrs.jpg
+
+## Het C3A titelblok met attributen
+  036  <- Images/DWGProperties.jpg
+  037  <- Images/TitelblockAlert.jpg
+
+## Bibtool
+  038  <- Images/Bibtool2.jpg
+
+## Blk2Bib - blocks aan de userbibliotheek toevoegen
+  039  <- Images/toegevoegd_block.jpg
+
+## Offlayer en Onlayer
+  040  <- Images/offlayer.jpg
+
+## DIM C3A-Stijlen
+  041  <- Images/c3acadsettingsdim.jpg
+
+## MFillet
+  042  <- Images/MFillet1.jpg
+  043  <- Images/MFillet2.jpg
+
+## Blocksubst
+  044  <- Images/blocksubst1.jpg
+  045  <- Images/blocksubst2.jpg
+  046  <- Images/blocksubst3.jpg
+  047  <- Images/blocksubst4.jpg
+
+## TamDim
+  048  <- Images/TamDim.jpg
+
+## Inverse Selection
+  049  <- Images/invsel1.jpg
+  050  <- Images/invsel2.jpg
+
+## Snap to fraction
+  051  <- Images/snapfrac1.jpg
+  052  <- Images/snapfrac2.jpg
+  053  <- Images/snapfrac3.jpg

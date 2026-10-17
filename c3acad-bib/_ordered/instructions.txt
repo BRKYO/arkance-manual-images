@@ -1,0 +1,79 @@
+INSTRUCTIONS - c3acad-bib
+============================================================
+Numbered images in manual order, grouped by help topic.
+
+## Opzet
+  001  <- Images/Opzet/totaalbeeld.jpg
+
+## Starten van de bibtool
+  002  <- Images/Startmap/snelkoppeling.gif
+  003  <- Images/Startmap/padC3Abib.gif
+  004  <- Images/Startmap/pulldown.gif
+  005  <- Images/Startmap/bibmap.gif
+  006  <- Images/Startmap/C3A_ExtraTB.gif
+  007  <- Images/Startmap/lint.gif
+  008  <- Images/Startmap/paduserbib.gif
+
+## Creeren van een bibliotheek
+  009  <- Images/Werkbalk/BT_NieuweBib.jpg
+  010  <- Images/Menu/Bestand_Nieuw_Bib.jpg
+  011  <- Images/Menu/Snelmenu_Nieuwe_Bib.jpg
+  012  <- Images/Dialoog/Dia_NewBib.jpg
+  013  <- Images/Diversen/NieuweBib.jpg
+
+## Aktief maken van een bibliotheek
+  014  <- Images/Opzet/totaalbeeld.jpg
+  015  <- Images/Werkbalk/BT_NivoOmhoog.jpg
+  016  <- Images/Diversen/Recent_Files.jpg
+
+## Oproepen van een element uit de bibliotheek
+  017  <- Images/Invoegen/Invoegen_Symbol.jpg
+  018  <- Images/Invoegen/Edit_Invoegen.jpg
+  019  <- Images/Invoegen/Snelmenu_Invoegen.jpg
+  020  <- Images/Werkbalk/BT_Insert.jpg
+  021  <- Images/Invoegen/Plaatsen_symbol.jpg
+
+## Blk2Bib
+  022  <- Images/Toevoegen/toegevoegd_block.jpg
+
+## Manipuleren van blocks in de userbib
+  023  <- Images/Manipulatie/Hernoem_snelmenu.jpg
+  024  <- Images/Manipulatie/Hernoem_dubbelklik.jpg
+  025  <- Images/Manipulatie/Hernoem_menu.jpg
+  026  <- Images/Manipulatie/Verwijderen_snelmenu.jpg
+  027  <- Images/Manipulatie/Verwijderen_menu.jpg
+  028  <- Images/Manipulatie/Knippen_snelmenu.jpg
+  029  <- Images/Manipulatie/Knippen_button2.jpg
+  030  <- Images/Manipulatie/Knippen_menu.jpg
+  031  <- Images/Manipulatie/Plakken_snelmenu.jpg
+  032  <- Images/Manipulatie/Plakken_button.jpg
+  033  <- Images/Manipulatie/Plakken_menu.jpg
+
+## Lagen
+  034  <- Images/Toevoegen/lagen_current-default-fixed.jpg
+
+## Opties
+  035  <- Images/Opties/Optiedialoog.jpg
+  036  <- Images/Opties/Beeldinstellingen.jpg
+  037  <- Images/Opties/Browseknop.jpg
+  038  <- Images/Opties/Browsedialoog.jpg
+  039  <- Images/Opties/Achtergrondkleur.jpg
+  040  <- Images/Opties/Invoeginstellingen.jpg
+  041  <- Images/Opties/Instellingen_WBLOCK.jpg
+
+## Manipuleren van bladen in de userbib
+  042  <- Images/Manipulatie/MapHernoem_snelmenu.jpg
+  043  <- Images/Manipulatie/MapHernoem_dubbelklik.jpg
+  044  <- Images/Manipulatie/Hernoem_menu.jpg
+  045  <- Images/Manipulatie/MapVerwijderen_snelmenu.jpg
+  046  <- Images/Manipulatie/Verwijderen_menu.jpg
+  047  <- Images/Manipulatie/MapKnippen_snelmenu.jpg
+  048  <- Images/Manipulatie/Knippen_button.jpg
+  049  <- Images/Manipulatie/Knippen_menu.jpg
+  050  <- Images/Manipulatie/MapPlakken_snelmenu.jpg
+  051  <- Images/Manipulatie/MapPlakken_button.jpg
+  052  <- Images/Manipulatie/Plakken_menu.jpg
+
+## Het LST-bestand
+  053  <- Images/LST/LST_blanco.jpg
+  054  <- Images/LST/LST.jpg

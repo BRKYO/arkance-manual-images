@@ -1,0 +1,217 @@
+INSTRUCTIONS - c3admin-word
+============================================================
+Numbered images in manual order, grouped by help topic.
+
+## Installatiemappen
+  001  <- Images/COM_BM_Installatiegids1.gif
+  002  <- Images/COM_BM_Installatiegids2.gif
+
+## Compatibiliteit
+  003  <- Images/Bestekstructuur/RefBestekSelecteren.gif
+  004  <- Images/Bestekstructuur/DocumentBijwerken.gif
+  005  <- Images/Bestekstructuur/RefBestekBijwerkenCompab.gif
+  006  <- Images/WordOptions2.gif
+  007  <- Images/sjablonen1.gif
+
+## Lint
+  008  <- Images/LintZonderBestek.gif
+  009  <- Images/Lint.gif
+
+## Basisbestek
+  010  <- Images/COM_BM_Basisbestek.gif
+
+## Artikellijst
+  011  <- Images/COM_BM_Artikellijst.gif
+
+## Instellingen
+  012  <- Images/Options/COM_BM_Instellingen1.gif
+  013  <- Images/Options/COM_BM_Meettypes.gif
+  014  <- Images/Options/COM_BM_Eenheden.gif
+  015  <- Images/Options/COM_BM_Foute_eenheid.gif
+  016  <- Images/Options/COM_BM_Instellingen3.gif
+
+## Opties
+  017  <- Images/Dialogs/DIA_Options.gif
+
+## Systeembestanden
+  018  <- Images/Dialogs/COM_BM_DIA_Systeembestanden.gif
+
+## Foutopvang
+  019  <- Images/Foutopvang/COM_ALL_Fout01.gif
+  020  <- Images/Foutopvang/COM_ALL_Fout02.gif
+
+## Richtlijnen VMSW
+  021  <- Images/Bestekstructuur/Artikelstructuur.gif
+
+## Keuzelijstjes in de basisbestekken VMSW
+  022  <- Images/Bestekstructuur/MultipleChoiceVMSW.gif
+  023  <- Images/Bestekstructuur/KeuzelijstOpmaak.gif
+  024  <- Images/Bestekstructuur/MultipleChoiceC3A.gif
+
+## Keuzelijstjes in de basisbestekken CCTB
+  025  <- Images/Bestekstructuur/MultipleChoiceCCTB.gif
+  026  <- Images/Bestekstructuur/KeuzelijstOpmaakCCTB.gif
+  027  <- Images/Bestekstructuur/MultipleChoiceC3ACCTB.gif
+  028  <- Images/Bestekstructuur/CCTB_geen_meeteenheid.gif
+
+## Nieuw bestek op basis van basisbestek(ken)
+  029  <- Images/Dialogs/BestekStructuurLeeg.gif
+  030  <- Images/Bestekstructuur/BT_SelecteerReferentieBestek.gif
+  031  <- Images/Bestekstructuur/Dia_KiesBasisbestek.gif
+  032  <- Images/Bestekstructuur/Dia_Bestekstructuur.gif
+  033  <- Images/Bestekstructuur/BT_OntkoppelReferentieBestek.gif
+  034  <- Images/Bestekstructuur/Dia_MeerdereBestekken.gif
+  035  <- Images/Bestekstructuur/ArtikelsInvoegen.gif
+  036  <- Images/Bestekstructuur/Zoekfunctie.gif
+  037  <- Images/Bestekstructuur/BT_ZoekArtikel.gif
+  038  <- Images/Bestekstructuur/BT_ToevoegenHoofdstuk.gif
+  039  <- Images/Bestekstructuur/Dia_NieuwHoofdstuk.gif
+  040  <- Images/Bestekstructuur/BT_ToevoegenArtikel.gif
+  041  <- Images/Bestekstructuur/Dia_NieuwArtikel.gif
+  042  <- Images/Bestekstructuur/BT_WijzigArtikel.gif
+  043  <- Images/Bestekstructuur/WijzigArtikel1.gif
+  044  <- Images/Bestekstructuur/WijzigArtikel2.gif
+  045  <- Images/Bestekstructuur/WijzigArtikel3.gif
+  046  <- Images/Bestekstructuur/BT_VerwijderArtikel.gif
+  047  <- Images/Bestekstructuur/Dia_VerwijderArtikel.gif
+  048  <- Images/Bestekstructuur/BT_Vernieuw.gif
+  049  <- Images/Bestekstructuur/Dia_BestekstructuurHeropbouwen.gif
+  050  <- Images/Bestekstructuur/RMKmenuBoven.gif
+  051  <- Images/Bestekstructuur/RMKmenuOnder.gif
+  052  <- Images/Bestekstructuur/BT_ToonArtikel.gif
+  053  <- Images/Bestekstructuur/BT_ArtikelOpnemen.gif
+  054  <- Images/Bestekstructuur/BT_Vernieuw.gif
+  055  <- Images/Bestekstructuur/BT_RefBestekBijwerken.gif
+  056  <- Images/Bestekstructuur/RefBestekBijwerkenVernieuw.gif
+  057  <- Images/Bestekstructuur/BT_Vernieuw.gif
+  058  <- Images/Bestekstructuur/Dia_RefBestekBijwerken.gif
+  059  <- Images/Bestekstructuur/RefBestekBijwerkenLog.gif
+
+## Nieuw bestek op basis van meetstaat
+  060  <- Images/BestekVanMeetstaat/KiesMeetstaat.gif
+  061  <- Images/BestekVanMeetstaat/DiaNieuwBestek1.gif
+  062  <- Images/BestekVanMeetstaat/KiesBasisBestek.gif
+  063  <- Images/BestekVanMeetstaat/DiaNieuwBestek2.gif
+  064  <- Images/BestekVanMeetstaat/Progress1.gif
+  065  <- Images/BestekVanMeetstaat/Progress2.gif
+  066  <- Images/BestekVanMeetstaat/OntbrekendeArtikels.gif
+  067  <- Images/BestekVanMeetstaat/OntbrekendeArtikelsIngevoegd.gif
+
+## Bestek synchroniseren met een meetstaat
+  068  <- Images/BestekSync/MeetstaatNietGevonden.gif
+  069  <- Images/BestekSync/Artikelvergelijking1.gif
+  070  <- Images/BestekSync/Artikelvergelijking2.gif
+  071  <- Images/BestekSync/Artikelvergelijking3.gif
+  072  <- Images/BestekSync/Artikelvergelijking4.gif
+  073  <- Images/BestekSync/SyncArtToevoegen.gif
+  074  <- Images/BestekSync/Artikelvergelijking5.gif
+
+## Bestek aan en loskoppelen van een basisbestek
+  075  <- Images/Dialogs/Gekoppeld_basisbestek.gif
+  076  <- Images/Dialogs/BestekAankoppelen.gif
+  077  <- Images/Bestekstructuur/ArtikelsVerplaatsen1.gif
+
+## Eigen artikels maken
+  078  <- Images/Bestekstructuur/EigenArtikel5.gif
+  079  <- Images/Bestekstructuur/BT_ToevoegenArtikel.gif
+  080  <- Images/Dialogs/Dia_EigenArtikelMaken.gif
+  081  <- Images/Bestekstructuur/EigenArtikel6.gif
+  082  <- Images/Bestekstructuur/EigenArtikelVerwijderen.gif
+  083  <- Images/Bestekstructuur/BT_WijzigArtikel.gif
+  084  <- Images/Bestekstructuur/Dia_WijzigArtikel.gif
+  085  <- Images/Bestekstructuur/ArtikeTitelFout.gif
+  086  <- Images/Bestekstructuur/ArtikeTitelGoed1.gif
+  087  <- Images/Bestekstructuur/ArtikeTitelGoed2.gif
+  088  <- Images/Bestekstructuur/ArtikeTitelGoed3.gif
+
+## Bestekanalyse
+  089  <- Images/Bestekstructuur/ArtikelOpbouw.gif
+  090  <- Images/Dialogs/BestekAnalyse.gif
+  091  <- Images/Analyseconflicten/TitelstijlenNietOpeenvolgend.gif
+
+## Wat spoort de bestekanalyse niet op?
+  092  <- Images/Bestekanalyseaandachtspunten/gewijzigde_artikelnaam1.gif
+  093  <- Images/Bestekanalyseaandachtspunten/gewijzigde_artikelnaam2.gif
+  094  <- Images/Bestekanalyseaandachtspunten/gewijzigde_artikelnaam3.gif
+
+## Bestekanalyseaandachtspunten
+  095  <- Images/Bestekanalyseaandachtspunten/correctetitel.gif
+  096  <- Images/Bestekanalyseaandachtspunten/foutprofiel1.gif
+  097  <- Images/Bestekanalyseaandachtspunten/foutprofiel2.gif
+  098  <- Images/Bestekanalyseaandachtspunten/foutprofiel3.gif
+  099  <- Images/Bestekanalyseaandachtspunten/foutprofiel4.gif
+
+## Bestekanalyseconflicten
+  100  <- Images/Analyseconflicten/Foutcodes.gif
+  101  <- Images/Analyseconflicten/foute_eenheid1.gif
+  102  <- Images/Analyseconflicten/foute_eenheid2.gif
+  103  <- Images/Analyseconflicten/tabulatie_ontbreekt.gif
+  104  <- Images/Analyseconflicten/dubbel_artikel.gif
+  105  <- Images/Analyseconflicten/stijlniveau_ontbreekt.gif
+  106  <- Images/Analyseconflicten/geenartnr1.gif
+  107  <- Images/Analyseconflicten/geenartnr2.gif
+  108  <- Images/Analyseconflicten/Geentab.gif
+  109  <- Images/Analyseconflicten/pageinde1.gif
+  110  <- Images/Analyseconflicten/pageinde2.gif
+  111  <- Images/Analyseconflicten/dubbelspatie1.gif
+  112  <- Images/Analyseconflicten/dubbelspatie2.gif
+  113  <- Images/Analyseconflicten/nonprinting.gif
+  114  <- Images/Analyseconflicten/OpmerkingInTitel.gif
+  115  <- Images/Analyseconflicten/OpmerkingInTekst.gif
+
+## Overzichtsweergave - Structuur
+  116  <- Images/outline.gif
+
+## Opties en invullingen
+  117  <- Images/Dialogs/dia_find.gif
+
+## Volgnummers
+  118  <- Images/Dialogs/Dia_Field.gif
+
+## Referentie
+  119  <- Images/SpecsReference1.gif
+  120  <- Images/SpecsReference2.gif
+
+## Meeteenheden
+  121  <- Images/Dialogs/Dia_MeetChar1.gif
+  122  <- Images/Dialogs/Dia_MeetChar2.gif
+  123  <- Images/Dialogs/Dia_MeetChar3.gif
+
+## Inhoudstabel
+  124  <- Images/Dialogs/dia_toc.gif
+  125  <- Images/Dialogs/Dia_Inhoudstabel.gif
+
+## Beheer van stijlen
+  126  <- Images/Styles.gif
+  127  <- Images/Dialogs/Dia_StylesUpdate.gif
+
+## Beheer van sjablonen
+  128  <- Images/WordOptions2.gif
+  129  <- Images/sjablonen1.gif
+  130  <- Images/sjablonen3.gif
+
+## Vermijden van tegenstrijdigheden bij Meetwijze en/of Aard Overeenkomst
+  131  <- Images/VermijdenTegenstrijdigheden.gif
+
+## Keuzelijstjes maken en bewerken
+  132  <- Images/Keuzelijsten/OptiesOntwikkelaars.gif
+  133  <- Images/Keuzelijsten/OntwikkelaarsBesturingselement.gif
+  134  <- Images/Keuzelijsten/KeuzelijstLeeg.gif
+  135  <- Images/Keuzelijsten/KeuzelijstEigenschappen.gif
+  136  <- Images/Keuzelijsten/KeuzelijstDia1.gif
+  137  <- Images/Keuzelijsten/KeuzelijstDia2.gif
+  138  <- Images/Keuzelijsten/KeuzelijstDia3.gif
+  139  <- Images/Keuzelijsten/KeuzelijstDia4.gif
+  140  <- Images/Keuzelijsten/KeuzelijstZonderOpmaak.gif
+  141  <- Images/Keuzelijsten/KeuzelijstOpmaken.gif
+  142  <- Images/Keuzelijsten/KeuzelijstMetOpmaak.gif
+  143  <- Images/Keuzelijsten/KeuzelijstOpmaakOverride.gif
+  144  <- Images/Keuzelijsten/KeuzelijstKlaar1.gif
+  145  <- Images/Keuzelijsten/KeuzelijstKlaar2.gif
+
+## Tips en advies
+  146  <- Images/Tips/SnelleToegang1.gif
+  147  <- Images/Tips/SnelleToegang2.gif
+  148  <- Images/Tips/SnelleToegang3.gif
+  149  <- Images/Tips/SnelleToegang4.gif
+  150  <- Images/Tips/BreedteDeelvenster.gif
